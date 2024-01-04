@@ -1,0 +1,141 @@
+1.variables 
+
+2.type method int
+
+3.tpye method whit str
+
+4.variable a+b=c
+
+5.casting
+
+6.input in string
+
+7.input in int
+------------
+8.get input for variable name and age. print it
+i/p
+kishore
+25
+
+o/p
+My name is : kishore
+My age is : 25
+--------------
+9.get input for variable name and age. print it
+i/p
+kishore
+25
+erode
+
+o/p
+My name is : kishore
+My age is : 25
+My address : erode
+------------------------------
+10.get integer input for variable a,b,c
+mutiple all 3 variables(a*b*c)
+add all 3 variables(a+b+c)
+divide the multiple values by added values
+print it 
+i/p
+2
+3
+4
+o/p
+
+2.6      (2*3*4)/(2+3+4)=2.6
+
+-----------------
+11.get input for variable name , scroe , dept
+get score for 100
+divide 100/10
+i/p
+kishore
+78
+computer
+o/p
+My name is k
+My score is 55
+My dept is instrumentation
+-------------
+
+12.if else with boolean value(basic)
+
+13. comparision operator
+
+14.rcb cup win
+
+15. get user input or variable meghna, if meghna == died print 'surya meets priya', else 'suriya weds meghna'
+
+16. get input for variable mark. if mark >35 print pass . else print fail
+i/p
+mark:34
+o/p
+fail
+--------------
+17. get input for variable income,
+ if income is gthen >7000 schoplarship is availabe.
+ else not eligible for scholarship
+i/p
+income:7200
+o/p
+not eligible for scholarship
+
+-----------
+18. a=16
+print(a%3)
+remainder ans=1
+
+qus=> get input for a number and check whether it is divisible by both 3 and 5 or not. 
+if yes then print, the number is divisible by 3 and 5 
+else print the number is not divisible by 3 and 5.
+----------------
+19. get input for a number and find even or odd.
+----------------
+20. get input for score out of 100
+if score is <35 ='poor student'
+if score is >35 but <70 = 'avg student'
+if score is >70 ='good student'
+
+elif(score>70 and score<100):
+	 print('good student'),
+  else: 
+	print('invalid score')
+--------------------------
+21. mini calculator
+get input for 2 numbers a and b
+get input for from user whether to add/sub/mul/div
+if user select add then add two numebers and print the result.
+-------------------
+22. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
